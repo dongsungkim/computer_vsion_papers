@@ -1,4 +1,4 @@
-# computer_vsion_papers
+# computer_vision_papers
 - List up computer vision SOTA paper
 
 ## Optimization 
